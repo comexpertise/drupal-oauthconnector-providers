@@ -1,4 +1,4 @@
-drupal-oauthconnector-providers
+Providers templates for Drupal oAuthConnector module
 ===============================
 
 Starting a sample collection of providers for "oauthconnector" Drupal module (drupal.org/project/oauthconnector). Thank you for sharing the providers you use.
