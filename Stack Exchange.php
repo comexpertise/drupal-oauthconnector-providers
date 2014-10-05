@@ -1,3 +1,4 @@
+<?php
 /*
  * @see https://api.stackexchange.com/docs/me
  * @see https://api.stackexchange.com/docs/types/user
